@@ -1,0 +1,15 @@
+Zadání
+Program
+- Otevřít a načíst soubor (lyrics dle vlastního výběru)
+- Funkce na sečtení textu v případě, že se nejedná o číslo.
+ (musí se rozdělit na slova)
+- Vytisknout na obrazovku původní text
+- Pod to text s nahrazeným textem
+VCS
+- Vytvořit v IDE a minimálně vytvořit jednu master branch s 1 commitem
+(např. načtení souboru).
+- Další postup bude v nove branchi (název je na vás) a budou zde aspoň 2 commity
+s popisem.
+- Na zavěr pull request.
+- Uložte na vlastním github jako public projekt a pošlete do myStat jen link na
+projekt.
